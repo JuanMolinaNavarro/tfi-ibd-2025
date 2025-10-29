@@ -63,11 +63,11 @@ Desarrollo de una pequeña aplicación que:
 
 ## 👩‍💻 Integrantes del Grupo
 
-| Nombre | Legajo | Rol |
-|--------|--------|------|
-| **Juan Martín Molina Navarro** | — | Desarrollo y Base de Datos |
-| **Lautaro Castillo** | — | Interfaz y Conexión |
-| **Luisina Svaldi** | — | Diseño y Documentación |
+| Nombre | Legajo |
+|--------|--------|
+| **Juan Martín Molina Navarro** | 52.640 |
+| **Lautaro Castillo** | — |
+| **Luisina Svaldi** | — |
 
 ---
 
@@ -84,7 +84,7 @@ Desarrollo de una pequeña aplicación que:
 
 1. Clonar el repositorio  
    ```bash
-   git clone https://github.com/<usuario>/<repositorio>.git
+   git clone https://github.com/JuanMolinaNavarro/tfi-ibd-2025.git
    ```
 2. Importar el script SQL (`TP6_Creacion_BD.sql`) en SQL Server.
 3. Ejecutar los **scripts DML** para insertar los registros iniciales.  
